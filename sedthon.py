@@ -200,7 +200,7 @@ async def _(event):
     time_name.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            first_name="@xxxmm"
+            first_name="@A2naa"
         )
     )
 
@@ -240,7 +240,7 @@ async def _(event):
     time_bio.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            about="@xxxmm"
+            about="@A2naa"
         )
     )
 
@@ -668,8 +668,8 @@ async def _(event):
 async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
-    The best !
-      - @A2NAA
+    「 ❥︎ 𝗧َ𝗘𝗥ُٰ𝗘ٌَ𝗫 🅉 🇱🇾 」 !
+      - @D_3_X
 ''', reply_to=event)
 
 
