@@ -2,13 +2,13 @@
     "name": "بحر سيد",
     "description": "User bot for telegram !",
     "stack": "container",
-    "repository": "https://github.com/alzanaty1238/bahr",
+    "repository": "https://github.com/Useren01/tes",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/alzanaty1238/bahr",
+    "website": "https://github.com/Useren01/tes",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
