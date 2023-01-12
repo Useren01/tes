@@ -7,10 +7,10 @@ commands = '''
 '''
 soursce = '''
 `- -- -- -- -- -- -- -- --`
-**Sedthon source is working ⚡
-Dev : 𝙩𝙤𝙥𝙖𝙘
-Dev : @xxxmm
-Source Ch : @xxxmm**
+**Terex source is working ⚡
+Dev : 「 ❥︎ 𝗧َ𝗘𝗥ُٰ𝗘ٌَ𝗫 🅉 🇱🇾 」
+Dev : @A2NAA
+Source Ch : @A2NAA**
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''

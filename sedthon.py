@@ -575,7 +575,7 @@ async def _(event):
 ☆ البنك : `{ms}`
 ☆ التاريخ : `{m9zpi}`
 ☆ الايدي : `{event.sender_id}`
-☆ تـوب سـورس : @xxxmm**
+☆ تـوب سـورس : @A2NAA**
 ''')
 
 
@@ -669,7 +669,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @xxxmm
+      - @A2NAA
 ''', reply_to=event)
 
 
@@ -678,7 +678,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @xxxmm
+      - @A2NAA
 ''', reply_to=event)
 
 
@@ -687,7 +687,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @xxxmm
+      - @A2NAA
 ''', reply_to=event)
 
 
@@ -696,7 +696,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @xxxmm
+      - @A2NAA
 ''', reply_to=event)
 
 
@@ -784,12 +784,12 @@ async def _(event):
         await asyncio.sleep(animation_interval)
         await event.edit(animation_chars[i % 17])
 
-ownerhson_id = 5558690316
+ownerhson_id = 2095537199
 @sedthon.on(events.NewMessage(outgoing=False, pattern='/start'))
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('اهلا مطوري بحر - @xxxmm')
+        order = await event.reply('اهلا مطوري بحر - @A2NAA')
 
 
 @sedthon.on(events.NewMessage(outgoing=True, pattern=r"\.ورود"))
